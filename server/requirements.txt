@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-RESTful
+Flask-Marshmallow
+Flask-Swagger-UI
+flask_cors
+flask_restx
+razorpay
+flask_jwt_extended
